@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "SQd6cwpDP1s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Shared\\Checkout.ProductsVisits.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\aspnetcore.healthchecks.dynamodb\\9.0.0\\aspnetcore.healthchecks.dynamodb.9.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\awssdk.core\\4.0.3.1\\awssdk.core.4.0.3.1.nupkg.sha512",
+    "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\awssdk.dynamodbv2\\4.0.9.6\\awssdk.dynamodbv2.4.0.9.6.nupkg.sha512",
+    "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.0\\microsoft.extensions.configuration.10.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.0\\microsoft.extensions.configuration.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\microsoft.extensions.configuration.binder\\10.0.0\\microsoft.extensions.configuration.binder.10.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\8.0.1\\microsoft.extensions.diagnostics.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks\\8.0.11\\microsoft.extensions.diagnostics.healthchecks.8.0.11.nupkg.sha512",
+    "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks.abstractions\\8.0.11\\microsoft.extensions.diagnostics.healthchecks.abstractions.8.0.11.nupkg.sha512",
+    "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\8.0.1\\microsoft.extensions.hosting.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\microsoft.extensions.options\\10.0.0\\microsoft.extensions.options.10.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\10.0.0\\microsoft.extensions.options.configurationextensions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0\\microsoft.extensions.primitives.10.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.0\\system.diagnostics.diagnosticsource.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

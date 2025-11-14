@@ -1,0 +1,304 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Application\\Checkout.ProductsVisits.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Application\\Checkout.ProductsVisits.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Application\\Checkout.ProductsVisits.Application.csproj",
+        "projectName": "Checkout.ProductsVisits.Application",
+        "projectPath": "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Application\\Checkout.ProductsVisits.Application.csproj",
+        "packagesPath": "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabriel.Alanis\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Infrastructure\\Checkout.ProductsVisits.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Infrastructure\\Checkout.ProductsVisits.Infrastructure.csproj"
+              },
+              "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Shared\\Checkout.ProductsVisits.Shared.csproj": {
+                "projectPath": "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Shared\\Checkout.ProductsVisits.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Cortex.Mediator": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Domain\\Checkout.ProductsVisits.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Domain\\Checkout.ProductsVisits.Domain.csproj",
+        "projectName": "Checkout.ProductsVisits.Domain",
+        "projectPath": "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Domain\\Checkout.ProductsVisits.Domain.csproj",
+        "packagesPath": "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabriel.Alanis\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Shared\\Checkout.ProductsVisits.Shared.csproj": {
+                "projectPath": "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Shared\\Checkout.ProductsVisits.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Infrastructure\\Checkout.ProductsVisits.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Infrastructure\\Checkout.ProductsVisits.Infrastructure.csproj",
+        "projectName": "Checkout.ProductsVisits.Infrastructure",
+        "projectPath": "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Infrastructure\\Checkout.ProductsVisits.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabriel.Alanis\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Domain\\Checkout.ProductsVisits.Domain.csproj": {
+                "projectPath": "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Domain\\Checkout.ProductsVisits.Domain.csproj"
+              },
+              "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Shared\\Checkout.ProductsVisits.Shared.csproj": {
+                "projectPath": "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Shared\\Checkout.ProductsVisits.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[4.0.9.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Shared\\Checkout.ProductsVisits.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Shared\\Checkout.ProductsVisits.Shared.csproj",
+        "projectName": "Checkout.ProductsVisits.Shared",
+        "projectPath": "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Shared\\Checkout.ProductsVisits.Shared.csproj",
+        "packagesPath": "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabriel.Alanis\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[4.0.9.6, )"
+            },
+            "AspNetCore.HealthChecks.DynamoDb": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

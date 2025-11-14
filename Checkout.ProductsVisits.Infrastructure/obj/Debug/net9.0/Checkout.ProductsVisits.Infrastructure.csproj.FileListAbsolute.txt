@@ -1,0 +1,17 @@
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Infrastructure\bin\Debug\net9.0\Checkout.ProductsVisits.Infrastructure.deps.json
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Infrastructure\bin\Debug\net9.0\Checkout.ProductsVisits.Infrastructure.dll
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Infrastructure\bin\Debug\net9.0\Checkout.ProductsVisits.Infrastructure.pdb
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Infrastructure\bin\Debug\net9.0\Checkout.ProductsVisits.Domain.dll
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Infrastructure\bin\Debug\net9.0\Checkout.ProductsVisits.Shared.dll
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Infrastructure\bin\Debug\net9.0\Checkout.ProductsVisits.Domain.pdb
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Infrastructure\bin\Debug\net9.0\Checkout.ProductsVisits.Shared.pdb
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Infrastructure\obj\Debug\net9.0\Checkout.ProductsVisits.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Infrastructure\obj\Debug\net9.0\Checkout.ProductsVisits.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Infrastructure\obj\Debug\net9.0\Checkout.ProductsVisits.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Infrastructure\obj\Debug\net9.0\Checkout.ProductsVisits.Infrastructure.AssemblyInfo.cs
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Infrastructure\obj\Debug\net9.0\Checkout.ProductsVisits.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Infrastructure\obj\Debug\net9.0\Checkout.29BC6125.Up2Date
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Infrastructure\obj\Debug\net9.0\Checkout.ProductsVisits.Infrastructure.dll
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Infrastructure\obj\Debug\net9.0\refint\Checkout.ProductsVisits.Infrastructure.dll
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Infrastructure\obj\Debug\net9.0\Checkout.ProductsVisits.Infrastructure.pdb
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Infrastructure\obj\Debug\net9.0\ref\Checkout.ProductsVisits.Infrastructure.dll

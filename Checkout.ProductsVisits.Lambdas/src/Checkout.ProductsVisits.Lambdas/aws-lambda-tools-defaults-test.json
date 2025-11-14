@@ -1,0 +1,8 @@
+{
+  "profile": "default",
+  "region": "us-east-1",
+  "configuration": "Debug",
+  "function-runtime": "dotnet9",
+  "function-handler": "Checkout.ProductsVisits.Lambdas::Checkout.ProductsVisits.Lambdas.Function::FunctionHandler",
+  "function-name": "product-visit-create"
+}

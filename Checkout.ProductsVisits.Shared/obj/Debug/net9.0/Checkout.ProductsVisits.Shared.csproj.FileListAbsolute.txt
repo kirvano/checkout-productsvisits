@@ -1,0 +1,12 @@
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Shared\bin\Debug\net9.0\Checkout.ProductsVisits.Shared.deps.json
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Shared\bin\Debug\net9.0\Checkout.ProductsVisits.Shared.dll
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Shared\bin\Debug\net9.0\Checkout.ProductsVisits.Shared.pdb
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Shared\obj\Debug\net9.0\Checkout.ProductsVisits.Shared.csproj.AssemblyReference.cache
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Shared\obj\Debug\net9.0\Checkout.ProductsVisits.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Shared\obj\Debug\net9.0\Checkout.ProductsVisits.Shared.AssemblyInfoInputs.cache
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Shared\obj\Debug\net9.0\Checkout.ProductsVisits.Shared.AssemblyInfo.cs
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Shared\obj\Debug\net9.0\Checkout.ProductsVisits.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Shared\obj\Debug\net9.0\Checkout.ProductsVisits.Shared.dll
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Shared\obj\Debug\net9.0\refint\Checkout.ProductsVisits.Shared.dll
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Shared\obj\Debug\net9.0\Checkout.ProductsVisits.Shared.pdb
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Shared\obj\Debug\net9.0\ref\Checkout.ProductsVisits.Shared.dll

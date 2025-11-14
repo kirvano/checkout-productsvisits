@@ -1,0 +1,15 @@
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Domain\bin\Debug\net9.0\Checkout.ProductsVisits.Domain.deps.json
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Domain\bin\Debug\net9.0\Checkout.ProductsVisits.Domain.dll
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Domain\bin\Debug\net9.0\Checkout.ProductsVisits.Domain.pdb
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Domain\bin\Debug\net9.0\Checkout.ProductsVisits.Shared.dll
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Domain\bin\Debug\net9.0\Checkout.ProductsVisits.Shared.pdb
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Domain\obj\Debug\net9.0\Checkout.ProductsVisits.Domain.csproj.AssemblyReference.cache
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Domain\obj\Debug\net9.0\Checkout.ProductsVisits.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Domain\obj\Debug\net9.0\Checkout.ProductsVisits.Domain.AssemblyInfoInputs.cache
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Domain\obj\Debug\net9.0\Checkout.ProductsVisits.Domain.AssemblyInfo.cs
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Domain\obj\Debug\net9.0\Checkout.ProductsVisits.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Domain\obj\Debug\net9.0\Checkout.727B72D8.Up2Date
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Domain\obj\Debug\net9.0\Checkout.ProductsVisits.Domain.dll
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Domain\obj\Debug\net9.0\refint\Checkout.ProductsVisits.Domain.dll
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Domain\obj\Debug\net9.0\Checkout.ProductsVisits.Domain.pdb
+C:\Users\Gabriel.Alanis\RiderProjects\Checkout.ProductsVisits\Checkout.ProductsVisits.Domain\obj\Debug\net9.0\ref\Checkout.ProductsVisits.Domain.dll

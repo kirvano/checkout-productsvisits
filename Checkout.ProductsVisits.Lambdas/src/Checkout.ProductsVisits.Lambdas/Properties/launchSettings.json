@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "Mock Lambda Test Tool": {
+      "commandName": "Executable",
+      "commandLineArgs": "--port 5050",
+      "executablePath": "%USERPROFILE%\\.dotnet\\tools\\dotnet-lambda-test-tool-9.0.exe",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DOTNET_SYSTEM_GLOBALIZATION_INVARIANT": "1"
+      },
+      "launchBrowser": true,
+      "launchUrl": "http://localhost:5050"
+    }
+  }
+}
