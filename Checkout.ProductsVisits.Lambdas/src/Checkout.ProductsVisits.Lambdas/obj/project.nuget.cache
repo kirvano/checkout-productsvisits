@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ccsOoinhnQQ=",
+  "dgSpecHash": "cnC5rVqepy4=",
   "success": true,
   "projectFilePath": "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Lambdas\\src\\Checkout.ProductsVisits.Lambdas\\Checkout.ProductsVisits.Lambdas.csproj",
   "expectedPackageFiles": [
@@ -39,7 +39,10 @@
     "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.0\\system.diagnostics.diagnosticsource.10.0.0.nupkg.sha512",
     "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\system.io.pipelines\\10.0.0\\system.io.pipelines.10.0.0.nupkg.sha512",
     "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\system.text.encodings.web\\10.0.0\\system.text.encodings.web.10.0.0.nupkg.sha512",
-    "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\system.text.json\\10.0.0\\system.text.json.10.0.0.nupkg.sha512"
+    "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\system.text.json\\10.0.0\\system.text.json.10.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.20\\microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.20\\microsoft.windowsdesktop.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.20\\microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512"
   ],
   "logs": []
 }

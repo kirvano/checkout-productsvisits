@@ -10,7 +10,7 @@ public record EventMetadata
 
     public EventMetadata(string eventType, string eventVersion = "1.0", EventLineage? lineage = null)
     {
-        EventId = Guid.CreateVersion7();
+        EventId = Guid.NewGuid();
         EventType = eventType;
         EventVersion = eventVersion;
         Timestamp = DateTimeOffset.UtcNow;

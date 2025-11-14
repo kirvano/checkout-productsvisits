@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iDEgcSjZVPw=",
+  "dgSpecHash": "7Hgn7PdK88w=",
   "success": true,
   "projectFilePath": "C:\\Users\\Gabriel.Alanis\\RiderProjects\\Checkout.ProductsVisits\\Checkout.ProductsVisits.Application\\Checkout.ProductsVisits.Application.csproj",
   "expectedPackageFiles": [
@@ -25,7 +25,10 @@
     "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\10.0.0\\microsoft.extensions.options.configurationextensions.10.0.0.nupkg.sha512",
     "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0\\microsoft.extensions.primitives.10.0.0.nupkg.sha512",
     "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\scrutor\\6.0.1\\scrutor.6.0.1.nupkg.sha512",
-    "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.0\\system.diagnostics.diagnosticsource.10.0.0.nupkg.sha512"
+    "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.0\\system.diagnostics.diagnosticsource.10.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.20\\microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.20\\microsoft.windowsdesktop.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\Gabriel.Alanis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.20\\microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512"
   ],
   "logs": []
 }

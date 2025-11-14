@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Checkout.ProductsVisits.Lambdas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8686ffa2a5a1d0f955f9bcfdf2fbb7a5fd2ef877")]
 [assembly: System.Reflection.AssemblyProductAttribute("Checkout.ProductsVisits.Lambdas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Checkout.ProductsVisits.Lambdas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
